@@ -278,10 +278,6 @@ describe('SkuMapper', () => {
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support
-
-For support, email support@wms-system.com or join our Slack channel.
-
 ## Acknowledgments
 
 - [React Documentation](https://react.dev)
