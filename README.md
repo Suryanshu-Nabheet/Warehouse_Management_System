@@ -2,7 +2,7 @@
 
 A modern, full-featured warehouse management system built with React, TypeScript, and Tailwind CSS. This system helps businesses efficiently manage their inventory, track SKUs, analyze sales data, and make data-driven decisions through an intuitive interface.
 
-![WMS Dashboard](https://images.pexels.com/photos/7947772/pexels-photo-7947772.jpeg)
+![WMS Dashboard](./Image/Home.png)
 
 ## Features
 
