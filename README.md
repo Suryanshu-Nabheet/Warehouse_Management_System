@@ -2,6 +2,11 @@
 
 A modern, full-featured warehouse management system built with React, TypeScript, and Tailwind CSS. This system helps businesses efficiently manage their inventory, track SKUs, analyze sales data, and make data-driven decisions through an intuitive interface.
 
+## 🚀 Live Demo
+
+Check out the live demo here 👉 [Live Demo](warehouse-management-system-omega.vercel.app)
+
+
 ![WMS Dashboard](./Image/Home.png)
 
 ## Features
