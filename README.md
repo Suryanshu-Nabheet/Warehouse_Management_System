@@ -142,8 +142,7 @@ const sql = queryService.convertToSql('Show me top selling products this month')
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/warehouse-management-system.git
-cd warehouse-management-system
+git clone https://github.com/Suryanshu-Nabheet/Warehouse_Management_System.git
 ```
 
 2. Install dependencies:
