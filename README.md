@@ -4,7 +4,7 @@ A modern, full-featured warehouse management system built with React, TypeScript
 
 ## 🚀 Live Demo
 
-Check out the live demo here 👉 [Live Demo](warehouse-management-system-omega.vercel.app)
+Check out the live demo here 👉 [Live Demo](https://warehouse-management-system-omega.vercel.app/)
 
 
 ![WMS Dashboard](./Image/Home.png)
